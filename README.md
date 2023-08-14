@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Python,js,html-css
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord : Kirua🔧#6408
+- 📫 How to reach me Discord : moonlox0_
 
 <!---
 Moonlox1/Moonlox1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
