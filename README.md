@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Moonlox1
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Python,js,html-css
-- 💞️ I’m looking to collaborate on ...
+- I'm python,cracker,html-css, batch Develloper
+
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me Discord : moonlox0_
 
 <!---
